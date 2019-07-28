@@ -6,4 +6,13 @@
 //  Copyright © 2019 Rajagopal Ganesan. All rights reserved.
 //
 
-import Foundation
+let LoginViewControllerId = "LoginViewControllerID"
+
+let LayoutTitle1 = "Ironing"
+let LayoutTitle2 = "Washing"
+let LayoutTitle3 = "Dry Cleaning"
+
+let LayoutDescription1 = "Burry your ironbox in the back yard"
+let LayoutDescription2 = "Washing is an art! We can beautify it"
+let LayoutDescription3 = "You can have a Ph.D. in anything, but you still can't dry-clean your own clothes"
+

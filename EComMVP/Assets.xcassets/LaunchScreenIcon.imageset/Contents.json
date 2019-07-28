@@ -1,11 +1,8 @@
 {
   "images" : [
     {
-      "idiom" : "universal"
-    },
-    {
       "idiom" : "universal",
-      "scale" : "3x"
+      "filename" : "spot.png"
     }
   ],
   "info" : {
