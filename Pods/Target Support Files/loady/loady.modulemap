@@ -1,0 +1,6 @@
+framework module loady {
+  umbrella header "loady-umbrella.h"
+
+  export *
+  module * { export * }
+}

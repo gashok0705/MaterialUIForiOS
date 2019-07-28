@@ -1,0 +1,6 @@
+framework module Pods_EComMVPTests {
+  umbrella header "Pods-EComMVPTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
